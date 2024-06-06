@@ -15,4 +15,4 @@ Readify is a mobile application built with React Native and Firebase, designed t
 ## Technologies Used
 - React Native for cross-platform mobile application development.
 - Firebase for backend services including authentication and real-time database.
-- React Navigation for handling navigation.
+- Expo router for handling navigation.
